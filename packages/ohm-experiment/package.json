@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "ohm-js": "^17.1.0"
   }
 }
