@@ -1,2 +1,2 @@
-# mondo
+# uzu
 algorithmic petting zoo
