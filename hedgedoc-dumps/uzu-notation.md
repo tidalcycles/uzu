@@ -56,7 +56,7 @@ Namely:
 - [mondo repo](https://github.com/tidalcycles/mondo)
 - [idea: using ":" for function args](https://discord.com/channels/779427371270275082/1191011773311107153/1308376724840513566)
 - [maxi notation discussion on strudel github](https://github.com/tidalcycles/strudel/discussions/96)
-- [alex's uzumaki musings](https://doc.patternclub.org/87ZlbW8NSbWUrkzRRz0SjA?both#)
+- [alex's uzumaki musings](uzumaki.md)
 - alignment of elements
     - [algorithmic pattern forum post](https://forum.algorithmicpattern.org/t/aligning-elements/492)
     - [GSOC project by Aravind Mohondas - Formalizing Konnakol](https://dev.to/aravindmohandas/formalizing-konnakol-using-haskell-gsoc-22-ekm)
