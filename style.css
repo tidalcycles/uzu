@@ -1,0 +1,20 @@
+body {
+  background-color: #222;
+  max-width: 72em;
+  margin: auto;
+  font-family: serif;
+  text-align: left;
+  font-size: 1.4em;
+  color: #edd;
+  padding: 0 10px;
+  padding-top: 20px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+a {
+  color: #ff0;
+  font-size: 1em;
+}
