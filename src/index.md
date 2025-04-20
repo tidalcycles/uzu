@@ -1,4 +1,9 @@
-# UZU
+---
+layout: default-layout.njk
+title: Uzu
+---
+
+# Welcome!
 
 An *Uzulang* is a member of a family of languages in the style of [TidalCycles](https://tidalcycles.org), based on the same model of patterns as functions of time, and often featuring a 'mini-language' for describing sequences inspired by the polymetric expressions in the venerable Bol Processor.
 
@@ -11,6 +16,8 @@ Uzulangs based on TidalCycles or derivatives:
 * idlecycles chapters [1](https://garten.salat.dev/idlecycles/chapter1.html), [2](https://garten.salat.dev/idlecycles/chapter2.html), [3](https://garten.salat.dev/idlecycles/chapter3.html), [4](https://garten.salat.dev/idlecycles/chapter4.html), [5](https://garten.salat.dev/idlecycles/chapter5.html), [6](https://garten.salat.dev/idlecycles/chapter6.html) (and watch [froos's garden](https://garten.salat.dev/) for new chapters) (Minimal Javascript EDSL, AGPLv3)
 * [Tranquility](https://github.com/XiNNiW/tranquility) - (Lua EDSL, GPLv3)
 * [Vortex](https://github.com/tidalcycles/vortex) - (Python EDSL, GPLv3)
+* [Cycles](https://docs.rs/cycles/latest/cycles/) - [source](https://github.com/mitchmindtree/cycles) (Rust EDSL, GPLv3)
+* [Kidal](https://gitlab.com/ndr_brt/kidal) - (Kotlin EDSL, GPLv3)
 
 'New wave' uzulangs based maxi- or mondo-notation:
 
