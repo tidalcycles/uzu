@@ -9,26 +9,129 @@
   </head>
   <body>
     <h1>Welcome!</h1>
-<p>An <em>Uzulang</em> is a member of a family of languages in the style of <a href="https://tidalcycles.org">TidalCycles</a>, based on the same model of patterns as functions of time, and often featuring a 'mini-language' for describing sequences inspired by the polymetric expressions in the venerable Bol Processor.</p>
+<p>An <em>Uzulang</em> is a member of a family of languages in the style of <a href="https://tidalcycles.org">TidalCycles</a>. This website aims to signpost the different uzulangs, and the communities, resources and ideas around them.</p>
+<h2>What is an Uzulang?</h2>
+<p>Uzulangs tend to be based on the same model of representing patterns of time,
+and generally feature the same or similar 'mini-notation' for describing
+sequences (inspired by the polymetric expressions in the venerable Bol
+Processor). They have grown out of the <a href="https://toplap.org/">live coding
+community</a>, and so are generally used for making music,
+often in an improvised or semi-improvised way (e.g., by writing code to make
+music while a live audience listens). Live coding is where people write code to
+make live music (or other time-based art like visuals or choreography).</p>
 <h2>All things uzu</h2>
 <p>Uzulangs based on TidalCycles or derivatives:</p>
-<ul>
-<li><a href="https://tidalcycles.org">TidalCycles</a> - <a href="https://github.com/tidalcycles/tidal">source</a> (Haskell EDSL, GPLv3)</li>
-<li><a href="https://strudel.cc">Strudel</a> - <a href="https://github.com/tidalcycles/strudel">source</a> (Javascript EDSL, AGPLv3)</li>
-<li>idlecycles chapters <a href="https://garten.salat.dev/idlecycles/chapter1.html">1</a>, <a href="https://garten.salat.dev/idlecycles/chapter2.html">2</a>, <a href="https://garten.salat.dev/idlecycles/chapter3.html">3</a>, <a href="https://garten.salat.dev/idlecycles/chapter4.html">4</a>, <a href="https://garten.salat.dev/idlecycles/chapter5.html">5</a>, <a href="https://garten.salat.dev/idlecycles/chapter6.html">6</a> (and watch <a href="https://garten.salat.dev/">froos's garden</a> for new chapters) (Minimal Javascript EDSL, AGPLv3)</li>
-<li><a href="https://github.com/XiNNiW/tranquility">Tranquility</a> - (Lua EDSL, GPLv3)</li>
-<li><a href="https://github.com/tidalcycles/vortex">Vortex</a> - (Python EDSL, GPLv3)</li>
-<li><a href="https://docs.rs/cycles/latest/cycles/">Cycles</a> - <a href="https://github.com/mitchmindtree/cycles">source</a> (Rust EDSL, GPLv3)</li>
-<li><a href="https://gitlab.com/ndr_brt/kidal">Kidal</a> - (Kotlin EDSL, GPLv3)</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Links</th>
+<th>Host language</th>
+<th>License</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TidalCycles (aka Tidal)</td>
+<td><a href="https://tidalcycles.org">home</a>, <a href="https://github.com/tidalcycles/tidal">source</a></td>
+<td>Haskell</td>
+<td>GPLv3</td>
+<td></td>
+</tr>
+<tr>
+<td>Strudel</td>
+<td><a href="https://strudel.cc">home</a>, <a href="https://github.com/tidalcycles/strudel">source</a></td>
+<td>JavaScript</td>
+<td>AGPLv3</td>
+<td>Can also parse Tidal-like syntax and mondonotation</td>
+</tr>
+<tr>
+<td>idlecycles</td>
+<td>chapters <a href="https://garten.salat.dev/idlecycles/chapter1.html">1</a>, <a href="https://garten.salat.dev/idlecycles/chapter2.html">2</a>, <a href="https://garten.salat.dev/idlecycles/chapter3.html">3</a>, <a href="https://garten.salat.dev/idlecycles/chapter4.html">4</a>, <a href="https://garten.salat.dev/idlecycles/chapter5.html">5</a>, <a href="https://garten.salat.dev/idlecycles/chapter6.html">6</a> (and watch <a href="https://garten.salat.dev/">froos's garden</a> for new chapters)</td>
+<td>JavaScript</td>
+<td>AGPLv3</td>
+<td>Minimal implementation mostly intended for learning and experimentation</td>
+</tr>
+<tr>
+<td>Tranquility</td>
+<td><a href="https://github.com/XiNNiW/tranquility">source</a></td>
+<td>Lua</td>
+<td>GPLv3</td>
+<td></td>
+</tr>
+<tr>
+<td>Votex</td>
+<td><a href="https://github.com/tidalcycles/vortex">source</a></td>
+<td>Python</td>
+<td>GPLv3</td>
+<td></td>
+</tr>
+<tr>
+<td>Cycles</td>
+<td>[docs]](https://docs.rs/cycles/latest/cycles/)</td>
+<td><a href="https://github.com/mitchmindtree/cycles">source</a></td>
+<td>Rust</td>
+<td>GPLv3</td>
+</tr>
+<tr>
+<td>Kidal</td>
+<td><a href="https://gitlab.com/ndr_brt/kidal">source</a></td>
+<td>Kotlin EDSL</td>
+<td>GPLv3</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <p>'New wave' uzulangs based maxi- or mondo-notation:</p>
-<ul>
-<li><a href="https://github.com/polymorphicengine/zwirn">Zwirn</a> - (Haskell, GPLv3)</li>
-<li><a href="https://github.com/neo451/modal">Modal</a>- see <a href="https://club.tidalcycles.org/t/introducing-modal-new-lua-port-of-tidal/5228">announcement</a> (Lua EDSL, GPLv3)</li>
-<li><a href="https://mathr.co.uk/web/godwit.html">Godwit</a> - based on simply-typed lambda calculus, written in Haskell (not currently accessible?)</li>
-<li>froos's uzunotation chapters <a href="https://garten.salat.dev/uzu/uzulang1.html">1</a>, <a href="https://garten.salat.dev/uzu/uzulang2.html">2</a>, <a href="https://garten.salat.dev/uzu/uzulang3.html">3</a> (Javascript, AGPLv3)</li>
-<li><a href="https://github.com/tidalcycles/strudel/pull/1311">Strudel's inbuilt mondonotation</a> based on the above (Javascript, AGPv3)</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Links</th>
+<th>Host language</th>
+<th>License</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Zwirn</td>
+<td><a href="https://github.com/polymorphicengine/zwirn">source</a></td>
+<td>Haskell</td>
+<td>GPLv3</td>
+<td></td>
+</tr>
+<tr>
+<td>Modal</td>
+<td><a href="https://github.com/neo451/modal">source</a>, <a href="https://club.tidalcycles.org/t/introducing-modal-new-lua-port-of-tidal/5228">announcement</a></td>
+<td>Lua</td>
+<td>GPLv3</td>
+<td></td>
+</tr>
+<tr>
+<td>Godwit</td>
+<td><a href="https://mathr.co.uk/web/godwit.html">source</a></td>
+<td>Haskell</td>
+<td>?</td>
+<td>based on simply-typed lambda calculus</td>
+</tr>
+<tr>
+<td>froos's uzunotation</td>
+<td>chapters <a href="https://garten.salat.dev/uzu/uzulang1.html">1</a>, <a href="https://garten.salat.dev/uzu/uzulang2.html">2</a>, <a href="https://garten.salat.dev/uzu/uzulang3.html">3</a></td>
+<td>Javascript</td>
+<td>AGPLv3</td>
+<td></td>
+</tr>
+<tr>
+<td>mondonotation</td>
+<td><a href="https://github.com/tidalcycles/strudel/pull/1311">source PR</a></td>
+<td>Javascript</td>
+<td>AGPv3</td>
+<td>part of Strudel (see above)</td>
+</tr>
+</tbody>
+</table>
 <h2>Add your uzu!</h2>
 <p>If you make an uzulang, please submit a pull request <a href="https://github.com/tidalcycles/uzu/blob/main/src/index.md">to this file</a> to add it to the above list. Please note that if your language is based on an existing one (e.g. by reading its source code and translating its ideas), then you must abide by its software license.</p>
 
