@@ -18,13 +18,14 @@ often in an improvised or semi-improvised way (e.g., by writing code to make
 music while a live audience listens). Live coding is where people write code to
 make live music (or other time-based art like visuals or choreography).
 
-## All things uzu
+## TidalCycles-style uzulangs
 
-Uzulangs based on TidalCycles or derivatives:
+Usually embedded in a general purpose language, with common 'mininotation'.
 
 | Name | Links | Host language | License | Notes |
 |------|-------|---------------|---------|-------|
 | TidalCycles (aka Tidal) | [home](https://tidalcycles.org), [source](https://github.com/tidalcycles/tidal) | Haskell | GPLv3 |
+| Estuary | [home](https://estuary.mcmaster.ca/), [source](https://github.com/dktr0/estuary) | JavaScript / Haskell | GPLv3 | A platform for network music including 'mini-Tidal' among many others |
 | Strudel | [home](https://strudel.cc), [source](https://github.com/tidalcycles/strudel) | JavaScript | AGPLv3 | Can also parse Tidal-like syntax and mondonotation |
 | idlecycles | chapters [1](https://garten.salat.dev/idlecycles/chapter1.html), [2](https://garten.salat.dev/idlecycles/chapter2.html), [3](https://garten.salat.dev/idlecycles/chapter3.html), [4](https://garten.salat.dev/idlecycles/chapter4.html), [5](https://garten.salat.dev/idlecycles/chapter5.html), [6](https://garten.salat.dev/idlecycles/chapter6.html) (and watch [froos's garden](https://garten.salat.dev/) for new chapters) | JavaScript | AGPLv3 | Minimal implementation mostly intended for learning and experimentation 
 | Tranquility | [source](https://github.com/XiNNiW/tranquility) | Lua | GPLv3 |
@@ -32,7 +33,9 @@ Uzulangs based on TidalCycles or derivatives:
 | Cycles | [docs]](https://docs.rs/cycles/latest/cycles/) | [source](https://github.com/mitchmindtree/cycles) | Rust | GPLv3 |
 | Kidal | [source](https://gitlab.com/ndr_brt/kidal) | Kotlin EDSL | GPLv3 |
 
-'New wave' uzulangs based maxi- or mondo-notation:
+## 'New wave' uzulangs
+
+These have a custom syntax, known as 'maxi-notation' or 'mondo-notation'
 
 | Name | Links | Host language | License | Notes |
 |------|-------|---------------|---------|-------|
@@ -42,12 +45,25 @@ Uzulangs based on TidalCycles or derivatives:
 | froos's uzunotation | chapters [1](https://garten.salat.dev/uzu/uzulang1.html), [2](https://garten.salat.dev/uzu/uzulang2.html), [3](https://garten.salat.dev/uzu/uzulang3.html) | Javascript | AGPLv3 |
 | mondonotation | [source PR](https://github.com/tidalcycles/strudel/pull/1311) | Javascript | AGPv3 | part of Strudel (see above) |
 
-## Communities
-
-
-
 ## Add your uzu!
 
-If you make an uzulang, please submit a pull request [to this file](https://github.com/tidalcycles/uzu/blob/main/src/index.md) to add it to the above list. 
+If you make an uzulang, please submit a pull request [to this file](https://github.com/tidalcycles/uzu/blob/main/src/index.md) to add it to one of the above lists. 
 
 Please note that if your language is based on an existing one (e.g. by reading its source code and porting parts of it), then you must abide by its software license. If you find a language partly based on a copyleft system but with an incompatible license, please note that the original license will still apply.
+
+## Background
+
+* McLean, Alex. 2011. “[Artist-Programmers and Programming Languages for the Arts.](https://research.gold.ac.uk/id/eprint/6611/)” PhD Thesis, Department of Computing, Goldsmiths, University of London.
+* McLean, Alex. 2014. “[Making Programming Languages to Dance to: Live Coding with Tidal.](https://doi.org/10.1145/2633638.2633647)” In Proceedings of the 2nd ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design.
+* McLean, Alex. 2021. “[Alternate Timelines for TidalCycles.](https://doi.org/10.5281/zenodo.5788732)” In Proceedings of the 6th International Conference on Live Coding. Valdivia, Chile. 
+* David Ogborn, Jamie Beverley, Nicholas Brown-Hernandez, Alejandro Franco Briones, Bernard Gray, Alex MacLean, Luis N. del Angel, Kofi Oduro, Spencer Park, Antonio Roberts, Jessica Rodríguez, Kate Sicchio, D. Andrew Stewart, Carl Testa, & Eldad Tsabary. (2022, June 28). [Estuary 0.3: Collaborative audio-visual live coding with a multilingual browser-based platform.](https://doi.org/10.5281/zenodo.6767377) Web Audio Conference 2022 (WAC2022), Cannes, France.
+* Roos, Felix, and Alex McLean. 2023. “[Strudel: Live Coding Patterns on the Web.](https://doi.org/10.5281/zenodo.7842142)” In Proceedings of the 7th International Conference on Live Coding. Utrecht, Netherlands.
+
+## Related communities
+
+* [Tidal, Strudel + friends discord](https://discord.gg/CqWhZEfNbq) - including the `#uzu-innards` channel
+* [Estuary discord](https://discord.gg/snvFzkPtFr)
+* [Tidal club forum](https://club.tidalcycles.org/)
+* [TOPLAP](https://toplap.org/) - the home of live coding
+* [Local TOPLAP nodes](https://toplap.org/nodes/)
+* [Pastagang](https://www.pastagang.cc/) - a creative group that anyone can join
