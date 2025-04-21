@@ -18,6 +18,10 @@ often in an improvised or semi-improvised way (e.g., by writing code to make
 music while a live audience listens). Live coding is where people write code to
 make live music (or other time-based art like visuals or choreography).
 
+*Uzu* means whirlpool in Japanese. *Strudel* and *Vortex* also mean whirlpool,
+in German and English respectively. There is a vague theme here around cyclic
+watery formations.
+
 ## TidalCycles-style uzulangs
 
 Usually embedded in a general purpose language, with common 'mininotation'.
@@ -46,6 +50,16 @@ These have a custom syntax, known as 'maxi-notation' or 'mondo-notation'
 | froos's uzunotation | chapters [1](https://garten.salat.dev/uzu/uzulang1.html), [2](https://garten.salat.dev/uzu/uzulang2.html), [3](https://garten.salat.dev/uzu/uzulang3.html) | Javascript | AGPLv3 |
 | mondonotation | [source PR](https://github.com/tidalcycles/strudel/pull/1311) | Javascript | AGPv3 | part of Strudel (see above) |
 
+## Related communities
+
+* [Strudel](https://social.toplap.org/@strudel) and [TidalCycles](https://social.toplap.org/@tidalcycles) on the [TOPLAP Social](https://social.toplap.org) mastodon instance 
+* [Tidal, Strudel + friends discord](https://discord.gg/CqWhZEfNbq) - including the `#uzu-innards` channel
+* [Estuary discord](https://discord.gg/snvFzkPtFr)
+* [Tidal club forum](https://club.tidalcycles.org/)
+* [TOPLAP](https://toplap.org/) - the home of live coding
+* [Local TOPLAP nodes](https://toplap.org/nodes/)
+* [Pastagang](https://www.pastagang.cc/) - a creative group that anyone can join
+
 ## Related research publications
 
 * McLean, Alex, and Geraint Wiggins. 2010. “[Tidal - Pattern Language for the Live Coding of Music.](https://doi.org/10.5281/zenodo.849841)” In Proceedings of the 7th Sound and Music Computing Conference 2010, 331–34. Barcelona.
@@ -56,17 +70,6 @@ These have a custom syntax, known as 'maxi-notation' or 'mondo-notation'
 * McLean, Alex, Raphaël Forment, Sylvain Le Beux, and Damián Silvani. 2022. “[TidalVortex Zero.](https://doi.org/10.5281/zenodo.6456380)” In proceedings of International Computer Music Conference. Limerick, Ireland.
 * Roos, Felix, and Alex McLean. 2023. “[Strudel: Live Coding Patterns on the Web.](https://doi.org/10.5281/zenodo.7842142)” In Proceedings of the 7th International Conference on Live Coding. Utrecht, Netherlands.
 * McLean, Alex. 2024. “[From Konnakol to Live Coding.](https://doi.org/10.1145/3677996.3678290)” In Proceedings of the 12th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling, and Design, 36–41. FARM 2024. New York, NY, USA: Association for Computing Machinery.
-
-
-## Related communities
-
-* [Strudel](https://social.toplap.org/@strudel) and [TidalCycles](https://social.toplap.org/@tidalcycles) on the [TOPLAP Social](https://social.toplap.org) mastodon instance 
-* [Tidal, Strudel + friends discord](https://discord.gg/CqWhZEfNbq) - including the `#uzu-innards` channel
-* [Estuary discord](https://discord.gg/snvFzkPtFr)
-* [Tidal club forum](https://club.tidalcycles.org/)
-* [TOPLAP](https://toplap.org/) - the home of live coding
-* [Local TOPLAP nodes](https://toplap.org/nodes/)
-* [Pastagang](https://www.pastagang.cc/) - a creative group that anyone can join
 
 ## Contribute to this page
 
