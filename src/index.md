@@ -38,10 +38,16 @@ Uzulangs based on TidalCycles or derivatives:
 |------|-------|---------------|---------|-------|
 | Zwirn | [source](https://github.com/polymorphicengine/zwirn) | Haskell | GPLv3 |
 | Modal | [source](https://github.com/neo451/modal), [announcement](https://club.tidalcycles.org/t/introducing-modal-new-lua-port-of-tidal/5228) | Lua | GPLv3 |
-| Godwit | [source](https://mathr.co.uk/web/godwit.html) | Haskell | ? | based on simply-typed lambda calculus |
+| Godwit | [source](https://mathr.co.uk/web/godwit.html) | Haskell | AGPLv3 | based on simply-typed lambda calculus |
 | froos's uzunotation | chapters [1](https://garten.salat.dev/uzu/uzulang1.html), [2](https://garten.salat.dev/uzu/uzulang2.html), [3](https://garten.salat.dev/uzu/uzulang3.html) | Javascript | AGPLv3 |
 | mondonotation | [source PR](https://github.com/tidalcycles/strudel/pull/1311) | Javascript | AGPv3 | part of Strudel (see above) |
 
+## Communities
+
+
+
 ## Add your uzu!
 
-If you make an uzulang, please submit a pull request [to this file](https://github.com/tidalcycles/uzu/blob/main/src/index.md) to add it to the above list. Please note that if your language is based on an existing one (e.g. by reading its source code and translating its ideas), then you must abide by its software license.
+If you make an uzulang, please submit a pull request [to this file](https://github.com/tidalcycles/uzu/blob/main/src/index.md) to add it to the above list. 
+
+Please note that if your language is based on an existing one (e.g. by reading its source code and porting parts of it), then you must abide by its software license. If you find a language partly based on a copyleft system but with an incompatible license, please note that the original license will still apply.
