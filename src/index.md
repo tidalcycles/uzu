@@ -5,7 +5,7 @@ title: Uzu
 
 # Welcome!
 
-An *Uzulang* is a member of a family of languages in the style of [TidalCycles](https://tidalcycles.org). This website aims to signpost the different uzulangs, and the communities, resources and ideas around them.
+An *Uzulang* is a member of a family of languages in the style of [TidalCycles](https://tidalcycles.org), [Strudel](https://strudel.cc/) and friends. This website aims to signpost the different uzulangs, and the communities, resources and ideas around them.
 
 ## What is an Uzulang?
 
