@@ -60,6 +60,7 @@ These have a custom syntax, known as 'maxi-notation' or 'mondo-notation'
 
 ## Related communities
 
+* [Strudel](https://social.toplap.org/@strudel) and [TidalCycles](https://social.toplap.org/@tidalcycles) on the [TOPLAP Social](https://social.toplap.org) mastodon instance 
 * [Tidal, Strudel + friends discord](https://discord.gg/CqWhZEfNbq) - including the `#uzu-innards` channel
 * [Estuary discord](https://discord.gg/snvFzkPtFr)
 * [Tidal club forum](https://club.tidalcycles.org/)
