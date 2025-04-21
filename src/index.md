@@ -30,7 +30,7 @@ Usually embedded in a general purpose language, with common 'mininotation'.
 | Estuary | [home](https://estuary.mcmaster.ca/), [source](https://github.com/dktr0/estuary) | JavaScript / Haskell | GPLv3 | A platform for network music including 'mini-Tidal' among many others |
 | Tranquility | [source](https://github.com/XiNNiW/tranquility) | Lua | GPLv3 |
 | Vortex | [source](https://github.com/tidalcycles/vortex) | Python | GPLv3 |
-| Cycles | [docs]](https://docs.rs/cycles/latest/cycles/) | [source](https://github.com/mitchmindtree/cycles) | Rust | GPLv3 |
+| Cycles | [docs](https://docs.rs/cycles/latest/cycles/) | [source](https://github.com/mitchmindtree/cycles) | Rust | GPLv3 |
 | Kidal | [source](https://gitlab.com/ndr_brt/kidal) | Kotlin EDSL | GPLv3 |
 | Web Tidal | [home](https://matthewkaney.github.io/web-tidal/?Hc7RSsMwAEDR937FNa2QjDDSdnRhDF8U/QjxIS6dq2Rt1zDsGObbpb5fONeXFMSDCy1i/8YrLzw/7c7dPISb71wvMqCgRxhZa6zS3CtqtiQa0u+j1WzkVlM26r/NiYh4ubqpFeTI7+uMtOyToiCMR2QMww8bCibXf7UztTEGawyx61ulyAnjBUvONAxnzLrKMl8tm4j76fRQk/j0i102mvfEYfxYVQvm2+BumLUp/wA=) [source](https://github.com/matthewkaney/web-tidal) | TypeScript (Haskell-style syntax/types) | AGPLv3 |
 
