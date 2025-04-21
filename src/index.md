@@ -28,7 +28,7 @@ Uzulangs based on TidalCycles or derivatives:
 | Strudel | [home](https://strudel.cc), [source](https://github.com/tidalcycles/strudel) | JavaScript | AGPLv3 | Can also parse Tidal-like syntax and mondonotation |
 | idlecycles | chapters [1](https://garten.salat.dev/idlecycles/chapter1.html), [2](https://garten.salat.dev/idlecycles/chapter2.html), [3](https://garten.salat.dev/idlecycles/chapter3.html), [4](https://garten.salat.dev/idlecycles/chapter4.html), [5](https://garten.salat.dev/idlecycles/chapter5.html), [6](https://garten.salat.dev/idlecycles/chapter6.html) (and watch [froos's garden](https://garten.salat.dev/) for new chapters) | JavaScript | AGPLv3 | Minimal implementation mostly intended for learning and experimentation 
 | Tranquility | [source](https://github.com/XiNNiW/tranquility) | Lua | GPLv3 |
-| Votex | [source](https://github.com/tidalcycles/vortex) | Python | GPLv3 |
+| Vortex | [source](https://github.com/tidalcycles/vortex) | Python | GPLv3 |
 | Cycles | [docs]](https://docs.rs/cycles/latest/cycles/) | [source](https://github.com/mitchmindtree/cycles) | Rust | GPLv3 |
 | Kidal | [source](https://gitlab.com/ndr_brt/kidal) | Kotlin EDSL | GPLv3 |
 
