@@ -11,6 +11,10 @@ body {
   padding-top: 20px;
 }
 
+img#logo {
+  width: 8em;
+  float: right;
+}
 
 a {
   color: #0aa;

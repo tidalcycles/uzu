@@ -1,13 +1,15 @@
 ---
 layout: default-layout.njk
-title: Uzu
+title: Uzulangs
 ---
 
-# Welcome!
+<img id="logo" src="static/images/uzu.png" />
 
-An *Uzulang* is a member of a family of languages in the style of [TidalCycles](https://tidalcycles.org), [Strudel](https://strudel.cc/) and friends. This website aims to signpost the different uzulangs, and the communities, resources and ideas around them.
+Welcome! This website aims to signpost the different uzulangs, and the communities, resources and ideas around them.
 
 ## What is an Uzulang?
+
+An *Uzulang* is a member of a family of languages in the style of [TidalCycles](https://tidalcycles.org), [Strudel](https://strudel.cc/) and friends. 
 
 Uzulangs tend to be based on the same model of representing patterns of time,
 and generally feature the same or similar 'mini-notation' for describing
