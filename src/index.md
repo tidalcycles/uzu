@@ -54,6 +54,8 @@ These have a custom syntax, known as 'maxi-notation' or 'mondo-notation'
 * David Ogborn, Jamie Beverley, Nicholas Brown-Hernandez, Alejandro Franco Briones, Bernard Gray, Alex MacLean, Luis N. del Angel, Kofi Oduro, Spencer Park, Antonio Roberts, Jessica Rodríguez, Kate Sicchio, D. Andrew Stewart, Carl Testa, & Eldad Tsabary. (2022, June 28). [Estuary 0.3: Collaborative audio-visual live coding with a multilingual browser-based platform.](https://doi.org/10.5281/zenodo.6767377) Web Audio Conference 2022 (WAC2022), Cannes, France.
 * McLean, Alex, Raphaël Forment, Sylvain Le Beux, and Damián Silvani. 2022. “[TidalVortex Zero.](https://doi.org/10.5281/zenodo.6456380)” In proceedings of International Computer Music Conference. Limerick, Ireland.
 * Roos, Felix, and Alex McLean. 2023. “[Strudel: Live Coding Patterns on the Web.](https://doi.org/10.5281/zenodo.7842142)” In Proceedings of the 7th International Conference on Live Coding. Utrecht, Netherlands.
+* McLean, Alex. 2024. “[From Konnakol to Live Coding.](https://doi.org/10.1145/3677996.3678290)” In Proceedings of the 12th ACM SIGPLAN International Workshop on Functional Art, Music, Modelling, and Design, 36–41. FARM 2024. New York, NY, USA: Association for Computing Machinery.
+
 
 ## Related communities
 
