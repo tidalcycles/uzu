@@ -18,13 +18,12 @@ often in an improvised or semi-improvised way (e.g., by writing code to make
 music while a live audience listens). Live coding is where people write code to
 make live music (or other time-based art like visuals or choreography).
 
-*Uzu* means whirlpool in Japanese. *Strudel* and *Vortex* also mean whirlpool,
-in German and English respectively. There is a vague theme here around cyclic
-watery formations.
-
 ## TidalCycles-style uzulangs
 
 Usually embedded in a general purpose language, with common 'mininotation'.
+*Uzu* means whirlpool in Japanese. *Strudel* and *Vortex* also mean whirlpool,
+in German and English respectively. There is a vague theme here around cyclic
+watery formations.
 
 | Name | Links | Host language | License | Notes |
 |------|-------|---------------|---------|-------|
