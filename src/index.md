@@ -11,8 +11,9 @@ An *Uzulang* is a member of a family of languages in the style of [TidalCycles](
 
 Uzulangs tend to be based on the same model of representing patterns of time,
 and generally feature the same or similar 'mini-notation' for describing
-sequences (inspired by the polymetric expressions in the venerable Bol
-Processor). They have grown out of the [live coding
+sequences (inspired by the [polymetric
+expressions](https://bolprocessor.org/polymetric-structure/) in the venerable
+Bol Processor). They have grown out of the [live coding
 community](https://toplap.org/), and so are generally used for making music,
 often in an improvised or semi-improvised way (e.g., by writing code to make
 music while a live audience listens). Live coding is where people write code to
