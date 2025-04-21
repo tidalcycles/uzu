@@ -45,12 +45,14 @@ These have a custom syntax, known as 'maxi-notation' or 'mondo-notation'
 | froos's uzunotation | chapters [1](https://garten.salat.dev/uzu/uzulang1.html), [2](https://garten.salat.dev/uzu/uzulang2.html), [3](https://garten.salat.dev/uzu/uzulang3.html) | Javascript | AGPLv3 |
 | mondonotation | [source PR](https://github.com/tidalcycles/strudel/pull/1311) | Javascript | AGPv3 | part of Strudel (see above) |
 
-## Bibliography
+## Related research publications
 
+* McLean, Alex, and Geraint Wiggins. 2010. “[Tidal - Pattern Language for the Live Coding of Music.](https://doi.org/10.5281/zenodo.849841)” In Proceedings of the 7th Sound and Music Computing Conference 2010, 331–34. Barcelona.
 * McLean, Alex. 2011. “[Artist-Programmers and Programming Languages for the Arts.](https://research.gold.ac.uk/id/eprint/6611/)” PhD Thesis, Department of Computing, Goldsmiths, University of London.
 * McLean, Alex. 2014. “[Making Programming Languages to Dance to: Live Coding with Tidal.](https://doi.org/10.1145/2633638.2633647)” In Proceedings of the 2nd ACM SIGPLAN International Workshop on Functional Art, Music, Modelling and Design.
 * McLean, Alex. 2021. “[Alternate Timelines for TidalCycles.](https://doi.org/10.5281/zenodo.5788732)” In Proceedings of the 6th International Conference on Live Coding. Valdivia, Chile. 
 * David Ogborn, Jamie Beverley, Nicholas Brown-Hernandez, Alejandro Franco Briones, Bernard Gray, Alex MacLean, Luis N. del Angel, Kofi Oduro, Spencer Park, Antonio Roberts, Jessica Rodríguez, Kate Sicchio, D. Andrew Stewart, Carl Testa, & Eldad Tsabary. (2022, June 28). [Estuary 0.3: Collaborative audio-visual live coding with a multilingual browser-based platform.](https://doi.org/10.5281/zenodo.6767377) Web Audio Conference 2022 (WAC2022), Cannes, France.
+* McLean, Alex, Raphaël Forment, Sylvain Le Beux, and Damián Silvani. 2022. “[TidalVortex Zero.](https://doi.org/10.5281/zenodo.6456380)” In proceedings of International Computer Music Conference. Limerick, Ireland.
 * Roos, Felix, and Alex McLean. 2023. “[Strudel: Live Coding Patterns on the Web.](https://doi.org/10.5281/zenodo.7842142)” In Proceedings of the 7th International Conference on Live Coding. Utrecht, Netherlands.
 
 ## Related communities
