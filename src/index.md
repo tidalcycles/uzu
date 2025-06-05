@@ -41,6 +41,7 @@ watery formations.
 | Piratidal | [source](https://github.com/diegovdc/piratidal) | Clojure | GPLv3 | 
 | Jaffle | [home](https://roipoussiere.frama.io/jaffle/) | YAML (based on Strudel) | AGPLv3 | 
 | Web Tidal | [home](https://matthewkaney.github.io/web-tidal/?Hc7RSsMwAEDR937FNa2QjDDSdnRhDF8U/QjxIS6dq2Rt1zDsGObbpb5fONeXFMSDCy1i/8YrLzw/7c7dPISb71wvMqCgRxhZa6zS3CtqtiQa0u+j1WzkVlM26r/NiYh4ubqpFeTI7+uMtOyToiCMR2QMww8bCibXf7UztTEGawyx61ulyAnjBUvONAxnzLrKMl8tm4j76fRQk/j0i102mvfEYfxYVQvm2+BumLUp/wA=) [source](https://github.com/matthewkaney/web-tidal) | TypeScript (Haskell-style syntax/types) | AGPLv3 |
+| Marea.sc | [source](https://github.com/munshkr/Marea.sc) | sclang | GPLv3 | Proof-of-concept implementation with partial minitidal interpreter, intended for learning
 
 ## 'New wave' uzulangs
 
