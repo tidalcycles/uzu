@@ -79,6 +79,6 @@ These have a custom syntax, known as 'maxi-notation' or 'mondo-notation'
 
 ## Contribute to this page
 
-If you make an uzulang you'd like to add to one of hte above lists, or would like to edit/fix or add any other links or info, please submit a pull request [to this file](https://github.com/tidalcycles/uzu/blob/main/src/index.md). 
+If you make an uzulang you'd like to add to one of the above lists, or would like to edit/fix or add any other links or info, please submit a pull request [to this file](https://github.com/tidalcycles/uzu/blob/main/src/index.md). 
 
 Please note that if your language is based on an existing one (e.g. by reading its source code and porting parts of it), then you must abide by its software license. If you find a language partly based on a copyleft system but with an incompatible license, please note that the original license will still apply.
