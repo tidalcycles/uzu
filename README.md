@@ -1,2 +1,5 @@
 # uzu
-algorithmic petting zoo
+
+Moved to codeberg
+
+https://codeberg.org/uzu/uzu
